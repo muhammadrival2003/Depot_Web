@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Varian</title>
+        <link rel="stylesheet" href="varian.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    </head>
+
+    <body>
+        <div class="main2">
+            <header>
+                <img src="image/Rival Water3.png" alt="">
+                <nav>
+                    <a href="index.html">Home</a>
+                    <a href="varian.html">Varian</a>
+                    <a href="#">Kontak</a>
+                    <div class="animation start-home"></div>
+                </nav>
+            </header>
+
+            <div class="content">
+                <div class="options">
+                    <div class="option active" style='--optionBackground:url(image/bg_logo.jpg);'>
+                       <div class="shadow"></div>
+                       <div class="label">
+                          <div class="icon">
+                             <i class="fas fa-walking"><img src="image/Icon1.png" alt=""></i>
+                          </div>
+                          <div class="info">
+                             <div class="text">
+                                 <div class="main">NORMAL</div>
+                                 <div class="sub">Air biasa </div>
+                             </div>                             
+                             <a href="biasa.html"><button>Selengkapnya</button></a>
+                          </div>
+                       </div>
+                    </div>
+                    <div class="option" style='--optionBackground:url(image/bg_logo2.jpg);'>
+                       <div class="shadow"></div>
+                       <div class="label">
+                          <div class="icon">
+                             <i class="fas fa-snowflake"><img src="image/Icon2.png" alt=""></i>
+                          </div>
+                          <div class="info">
+                           <div class="text">
+                              <div class="main">NORMAL</div>
+                              <div class="sub">Air biasa </div>
+                          </div>                             
+                          <a href="index.html"><button>Selengkapnya</button></a>  
+                          </div>
+                       </div>
+                    </div>
+                    <div class="option" style='--optionBackground:url(image/bg_logo3.jpg);'>
+                       <div class="shadow"></div>
+                       <div class="label">
+                          <div class="icon">
+                             <i class="fas fa-tree"><img src="image/Icon3.png" alt=""></i>
+                          </div>
+                          <div class="info">
+                           <div class="text">
+                              <div class="main">NORMAL</div>
+                              <div class="sub">Air biasa </div>
+                          </div>                             
+                          <a href="index.html"><button>Selengkapnya</button></a>                             
+                          </div>
+                       </div>
+                    </div>
+                    <div class="option" style='--optionBackground:url(image/bg_logo4.jpg);'>
+                       <div class="shadow"></div>
+                       <div class="label">
+                          <div class="icon">
+                             <i class="fas fa-tint"><img src="image/Icon4.png" alt=""></i>
+                          </div>
+                          <div class="info">
+                           <div class="text">
+                              <div class="main">NORMAL</div>
+                              <div class="sub">Air biasa </div>
+                          </div>                             
+                          <a href="index.html"><button>Selengkapnya</button></a>  
+                          </div>
+                       </div>
+                    </div>
+                 </div>
+                 <h1>- MENYEDIAKAN 4 MACAM AIR -</h1>
+                 <p>Ayo pilih salah satu air diatas sesuai dengan kebutuhan yang diperlukan</p>
+            </div>
+    </body>
+
+    <script>
+        $(".option").on('click', function () {
+            $(".option").removeClass("active");
+            $(this).addClass("active");
+        });
+    </script>
+</html>
