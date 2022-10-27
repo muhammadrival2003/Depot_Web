@@ -4,10 +4,12 @@ c = a * b
 
 print("Hasil penjumlahannya adalah ", c)
 
-#dsafasdfasdfasdfasdfa
-#dsafasdfasdfasdfasdfa
-#dsafasdfasdfasdfasdfa
-#dsafasdfasdfasdfasdfa
-#dsafasdfasdfasdfasdfa
-#dsafasdfasdfasdfasdfa
-#dsafasdfasdfasdfasdfa
+a = 10
+b = 56
+c = a * b
+
+print("Hasil = ", c)
+
+nama = input("Masukkan nama anda: ")
+password = input("Masukkan password anda: ")
+
