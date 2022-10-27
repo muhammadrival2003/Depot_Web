@@ -3,14 +3,11 @@ b = 18
 c = a * b
 
 print("Hasil penjumlahannya adalah ", c)
-nama = input("Masukkan nama anda: ")
-password = input("Masukkan password anda: ")
 
-Nama = "rival"
-Password = "2003"
-
-if (nama == Nama):
-    if (password == Password):
-        {
-            print("Anda berhasil LOgin")
-        }
+#dsafasdfasdfasdfasdfa
+#dsafasdfasdfasdfasdfa
+#dsafasdfasdfasdfasdfa
+#dsafasdfasdfasdfasdfa
+#dsafasdfasdfasdfasdfa
+#dsafasdfasdfasdfasdfa
+#dsafasdfasdfasdfasdfa
