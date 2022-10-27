@@ -3,7 +3,6 @@ b = 18
 c = a * b
 
 print("Hasil penjumlahannya adalah ", c)
-
 nama = input("Masukkan nama anda: ")
 password = input("Masukkan password anda: ")
 
