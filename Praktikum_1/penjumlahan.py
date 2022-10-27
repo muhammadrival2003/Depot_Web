@@ -4,8 +4,14 @@ c = a * b
 
 print("Hasil penjumlahannya adalah ", c)
 
-print("Saya adalah mahasiswa!!!")
+nama = input("Masukkan nama anda: ")
+password = input("Masukkan password anda: ")
 
-print("Nama saya adalah Sahli Kurniawan")
+Nama = "rival"
+Password = "2003"
 
-print("Nama saya adalah Musaed Hasanuddin")
+if (nama == Nama):
+    if (password == Password):
+        {
+            print("Anda berhasil LOgin")
+        }
