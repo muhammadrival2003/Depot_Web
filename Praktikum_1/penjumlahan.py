@@ -4,3 +4,4 @@ c = a * b
 
 print("Hasil penjumlahannya adalah ", c)
 
+print("Saya adalah mahasiswa!!!")
