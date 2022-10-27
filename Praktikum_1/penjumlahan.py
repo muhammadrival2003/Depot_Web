@@ -4,15 +4,4 @@ c = a * b
 
 print("Hasil penjumlahannya adalah ", c)
 
-#asdfjasdjlfashdfashfalsdfj
-#asdfjasdjlfashdfashfalsdfj
-#asdfjasdjlfashdfashfalsdfj
-#asdfjasdjlfashdfashfalsdfj
-#asdfjasdjlfashdfashfalsdfj
-#asdfjasdjlfashdfashfalsdfj
-#asdfjasdjlfashdfashfalsdfj
-#asdfjasdjlfashdfashfalsdfj
-#asdfjasdjlfashdfashfalsdfj
-#asdfjasdjlfashdfashfalsdfj
-#asdfjasdjlfashdfashfalsdfj
-#asdfjasdjlfashdfashfalsdfjdfafasdfasdf
+print("Saya adalah mahasiswa")
