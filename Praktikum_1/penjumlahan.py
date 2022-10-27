@@ -19,5 +19,5 @@ Password = "2003"
 if (nama == Nama):
     if (password == Password):
         {
-            print("Anda berhasil LOgin")
+            print("Anda berhasil Login")
         }
